@@ -22,7 +22,7 @@ Dibuat dengan React + Vite, ini adalah showcase dari project, skill, dan karya y
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/rissss21/portofolio.git
+git clone https://shinyx1.github.io/portofolio/
 cd portofolio
 ````
 
@@ -44,7 +44,7 @@ npm run build
 ## &#x20;Quick Preview
 
 Jika sudah di-deploy (contoh: GitHub Pages, Netlify, Vercel), kamu bisa tambahkan link deploy di sini, misalnya:
-[🔗 Lihat versi live](https://shinyx1.github.io/PortoShinyx/)
+[🔗 Lihat versi live](https://shinyx1.github.io/portofolio/)
 
 ## Tentang Saya
 
